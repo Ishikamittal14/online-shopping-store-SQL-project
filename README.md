@@ -1,7 +1,7 @@
 # Online Shopping Store SQL Project
 
 ## ✅ Overview
-This project models an **Online Shopping Store Database**.  
+This project models an **Online Shopping Store Database**. 
 It includes tables to manage:
 - Customers
 - Products
